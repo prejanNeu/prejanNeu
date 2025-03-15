@@ -16,5 +16,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prejanneu&show_icons=true&locale=en&layout=compact" alt="prejanneu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prejanneu&" alt="prejanneu" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prejanneu&" alt="prejanNeu" /></p>
+N
