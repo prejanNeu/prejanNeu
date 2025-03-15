@@ -11,7 +11,7 @@
 ---
 
 ### 🌐 About Me
-- 👨‍💻 All of my projects are available at **[nrejanneupane.com.np](https://www.prejanneupane.com.np/)**
+- 👨‍💻 All of my projects are available at **[prejanneupane.com.np](https://www.prejanneupane.com.np/)**
 - 📫 How to reach me: **neupaneprejan2018@gmail.com**
 - 🔭 Currently working on **ASP.NET, Django, and .NET Web Projects**
 - 🌱 Learning **ASP.NET MVC and Advanced Backend Development**
